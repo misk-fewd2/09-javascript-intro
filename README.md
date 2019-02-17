@@ -57,3 +57,8 @@
 - If it is a multiple of both 3 and 5, print “FizzBuzz” instead of the number.
 
 - Otherwise, print the number
+
+## Additional Resources
+
+- https://javascript.info/
+- https://www.codeanalogies.com/
