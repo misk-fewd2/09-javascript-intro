@@ -86,6 +86,8 @@
 
 ![images/js-functions-practice-output-1](images/js-functions-practice-output-1.png)
 
+![images/js-functions-practice-output-2](images/js-functions-practice-output-2.png)
+
 ![images/js-functions-scope](images/js-functions-scope.png)
 
 # Fizzbuzz
