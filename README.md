@@ -1,16 +1,17 @@
-# Javascript Intro
-
-![images/js-1](images/js-1.png)
-![images/js-2](images/js-2.png)
-![images/js-3](images/js-3.png)
-![images/js-4](images/js-4.png)
-![images/js-5](images/js-5.png)
+# Pseudo Code Intro
 ![images/js-6](images/js-6.png)
 ![images/js-7](images/js-7.png)
 ![images/js-8](images/js-8.png)
 ![images/js-9](images/js-9.png)
 ![images/js-10](images/js-10.png)
 ![images/js-10a](images/js-10a.png)
+# Javascript Intro
+<!-- 
+![images/js-1](images/js-1.png)
+![images/js-2](images/js-2.png) -->
+![images/js-3](images/js-3.png)
+![images/js-4](images/js-4.png)
+<!-- ![images/js-5](images/js-5.png) -->
 ![images/js-11](images/js-11.png)
 ![images/js-11a](images/js-11a.png)
 ![images/js-11b](images/js-11b.png)
@@ -58,41 +59,9 @@
 
 - Otherwise, print the number
 
-# Functions
-![images/js-functions](images/js-functions.png)
-![images/js-functions_1](images/js-functions_1.png)
-![images/js-functions_1_syntax](images/js-functions_1_syntax.png)
-![images/js-functions_2_argument_syntax](images/js-functions_2_argument_syntax.png)
-![images/js-functions_3_calls](images/js-functions_3_calls.png)
-
-![images/js-functions_3_calls_1](images/js-functions_3_calls_1.png)
-
-![images/js-functions_4_call_argument](images/js-functions_4_call_argument.png)
-![images/js-functions-practice](images/js-functions-practice.png)
-
-![images/js-functions-practice_1](images/js-functions-practice_1.png)
-
-![images/js-functions_practice_2](images/js-functions_practice_2.png)
-
-![images/js-function-input](images/js-function-input.jpg)
-
-![images/js-function-output](images/js-function-output.png)
-
-![images/js-function-output2](images/js-function-output2.png)
-
-![images/js-function-outputs](images/js-function-outputs.png)
-
-![images/js-functions-practice-output](images/js-functions-practice-output.png)
-
-![images/js-functions-practice-output-1](images/js-functions-practice-output-1.png)
-
-![images/js-functions-practice-output-2](images/js-functions-practice-output-2.png)
-
-![images/js-functions-scope](images/js-functions-scope.png)
-
 # Fizzbuzz
 
-- Write a function that accepts an argument of a number equal to a number 0 - 100
+- Write a if statements that print the if the number is Fizz or Buzz or both 
 
 - If it is a multiple of 3, return “Fizz” instead of the number.
 
