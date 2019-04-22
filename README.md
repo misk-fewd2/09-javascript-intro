@@ -76,3 +76,4 @@
 
 - https://javascript.info/
 - https://www.codeanalogies.com/
+- Operator precedence http://www-lia.deis.unibo.it/materiale/JS/developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence.html
