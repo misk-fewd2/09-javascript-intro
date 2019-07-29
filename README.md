@@ -34,7 +34,11 @@ By the end of this class, you will:
 
 # Fizzbuzz
 
-- Write a program that declares a variable equal to a number 0 - 100 - If it is a multiple of 3, print “Fizz” instead of the number. - If it is a multiple of 5, print “Buzz” instead of the number. - If it is a multiple of both 3 and 5, print “FizzBuzz” instead of the number. - Otherwise, print the number
+- Write a program that declares a variable equal to a number 0 - 100
+- If it is a multiple of 3, print “Fizz” instead of the number.
+- If it is a multiple of 5, print “Buzz” instead of the number.
+- If it is a multiple of both 3 and 5, print “FizzBuzz” instead of the number.
+- Otherwise, print the number
 
 ## Additional Resources
 
